@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UMPGorePack.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UMPGorePack.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UMPGorePackEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Scanned3DPeoplePack.png" />
+    <None Include="..\..\UMPGorePack.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\UMPGorePack">
+      <UniqueIdentifier>{36E2A338-F4A6-3308-AB43-02EB45A283EF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UMPGorePack\DetectionComponent.cpp">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\DetectionComponent.h">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMPGorePack\Grabber.cpp">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\Grabber.h">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UMPGorePack\UMPGorePack.Build.cs">
+      <Filter>Source\UMPGorePack</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UMPGorePack\UMPGorePack.cpp">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\UMPGorePack.h">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
+            "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\triggercomponent.h",
+            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
