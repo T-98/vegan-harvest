@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\umpgorepack.cpp",
+        "Source": "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\umpgorepack.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
-            "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\umpgorepack.h"
+            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
+            "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\umpgorepack.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
