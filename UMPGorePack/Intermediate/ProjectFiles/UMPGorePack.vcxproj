@@ -329,6 +329,7 @@
     <None Include="..\..\UMPGorePack.uproject"/>
     <None Include="..\..\Source\UMPGorePack.Target.cs"/>
     <None Include="..\..\Source\UMPGorePackEditor.Target.cs"/>
+    <None Include="..\..\Scanned3DPeoplePack.png"/>
     <None Include="..\..\UMPGorePack.png"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
@@ -336,6 +337,11 @@
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
     <None Include="..\..\Config\HoloLens\HoloLensEngine.ini"/>
+    <ClCompile Include="..\..\Source\UMPGorePack\DetectionComponent.cpp">
+      <AdditionalIncludeDirectories>$(NMakeIncludeSearchPath);N:\UE_5.0\Engine\Source\ThirdParty\mimalloc\include;N:\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source\Win64;N:\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\task;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry;</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(SolutionDir)Intermediate\Build\Win64\UMPGorePackEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h;$(SolutionDir)Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\Definitions.UMPGorePack.h</ForcedIncludeFiles>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\DetectionComponent.h"/>
     <ClCompile Include="..\..\Source\UMPGorePack\Grabber.cpp">
       <AdditionalIncludeDirectories>$(NMakeIncludeSearchPath);N:\UE_5.0\Engine\Source\ThirdParty\mimalloc\include;N:\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source\Win64;N:\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\task;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions;N:\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry;</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(SolutionDir)Intermediate\Build\Win64\UMPGorePackEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h;$(SolutionDir)Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\Definitions.UMPGorePack.h</ForcedIncludeFiles>

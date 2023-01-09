@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UMPGorePackEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Scanned3DPeoplePack.png" />
     <None Include="..\..\UMPGorePack.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -39,6 +40,12 @@
     <Filter Include="Source\UMPGorePack">
       <UniqueIdentifier>{36E2A338-F4A6-3308-AB43-02EB45A283EF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UMPGorePack\DetectionComponent.cpp">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\DetectionComponent.h">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\UMPGorePack\Grabber.cpp">
       <Filter>Source\UMPGorePack</Filter>
     </ClCompile>
