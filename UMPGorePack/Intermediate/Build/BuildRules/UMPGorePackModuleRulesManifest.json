@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"N:\\Github\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack\\UMPGorePack.Build.cs",
-		"N:\\Github\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
-		"N:\\Github\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs"
+		"E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack\\UMPGorePack.Build.cs",
+		"E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
+		"E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
