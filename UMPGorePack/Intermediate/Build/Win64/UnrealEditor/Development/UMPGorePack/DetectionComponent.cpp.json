@@ -1,13 +1,13 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.cpp",
+        "Source": "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.cpp",
         "ProvidedModule": "",
-        "PCH": "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
-            "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.h",
-            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.generated.h"
+            "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
+            "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.h",
+            "e:\\github\\harvest\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
