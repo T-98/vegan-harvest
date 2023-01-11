@@ -13,5 +13,5 @@
   [3/4] Link UnrealEditor-UMPGorePack.dll
      Creating library D:\code\vegan-harvest\UMPGorePack\Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\UnrealEditor-UMPGorePack.suppressed.lib and object D:\code\vegan-harvest\UMPGorePack\Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\UnrealEditor-UMPGorePack.suppressed.exp
   [4/4] WriteMetadata UMPGorePackEditor.target
-  Total time in Parallel executor: 7.42 seconds
-  Total execution time: 8.14 seconds
+  Total time in Parallel executor: 1.36 seconds
+  Total execution time: 2.49 seconds
