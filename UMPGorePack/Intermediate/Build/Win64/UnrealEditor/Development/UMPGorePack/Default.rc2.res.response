@@ -60,9 +60,9 @@
 /DORIGINAL_FILE_NAME="UnrealEditor-UMPGorePack.dll"
 /DBUILT_FROM_CHANGELIST=20979098
 /DBUILD_VERSION=++UE5+Release-5.0-CL-20979098
-/DBUILD_ICON_FILE_NAME="\"D:\\code\\vegan-harvest\\UMPGorePack\\Build\\Windows\\Application.ico\""
+/DBUILD_ICON_FILE_NAME="\"E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Build\\Windows\\Application.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=UMPGorePack
-/fo "D:\code\vegan-harvest\UMPGorePack\Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\Default.rc2.res"
+/fo "E:\GitHub\Harvest\vegan-harvest\UMPGorePack\Intermediate\Build\Win64\UnrealEditor\Development\UMPGorePack\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
