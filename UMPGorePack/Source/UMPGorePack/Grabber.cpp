@@ -56,7 +56,7 @@ void UGrabber::Grab()
 
 			AActor* HitActor = HitResult.GetActor();
 			HitActor->Tags.Add("Grabbed");
-			HitActor->DetachFromActor(FDetachmentTransformRules::KeepWorldTransform);
+			HitActor->DetachFromActor(FDetachmentTransformRules::KeepRelativeTransform);
 
 			PhysicsHandle->GrabComponentAtLocationWithRotation(
 				HitComponent,
