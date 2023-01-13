@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\grabber.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\grabber.h",
+            "d:\\unreal engine\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
+            "d:\\unreal engine\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicshandlecomponent.generated.h",
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\uht\\grabber.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
