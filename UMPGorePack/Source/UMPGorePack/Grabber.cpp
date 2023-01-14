@@ -56,7 +56,7 @@ void UGrabber::Grab()
 
 			AActor* HitActor = HitResult.GetActor();
 			HitActor->Tags.Add("Grabbed");
-			HitActor->DetachFromActor(FDetachmentTransformRules::KeepWorldTransform);
+			HitActor->DetachFromActor(FDetachmentTransformRules::KeepRelativeTransform);
 
 			PhysicsHandle->GrabComponentAtLocationWithRotation(
 				HitComponent,
@@ -64,8 +64,8 @@ void UGrabber::Grab()
 				HitResult.ImpactPoint,
 				GetComponentRotation()
 			);
-			DrawDebugSphere(GetWorld(), HitResult.Location, 10, 10, FColor::Green, false, 5);
-			DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 10, 10, FColor::Red, false, 5);
+			//DrawDebugSphere(GetWorld(), HitResult.Location, 10, 10, FColor::Green, false, 5);
+			//DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 10, 10, FColor::Red, false, 5);
 			UE_LOG(LogTemp, Display, TEXT("Hit Actor: %s"), *HitResult.GetActor()->GetActorNameOrLabel());
 		}
 		else
@@ -104,8 +104,8 @@ bool UGrabber::GetGrabbableInReach(FHitResult& OutHitResult) const
 	//Draw a debug line for line trace
 	const FVector Start = GetComponentLocation();
 	const FVector End = Start + GetForwardVector() * MaxGrabDistance;
-	DrawDebugLine(GetWorld(), Start, End, FColor::Red);
-	DrawDebugSphere(GetWorld(), End, 10, 10, FColor::Blue, false, 5);
+	//DrawDebugLine(GetWorld(), Start, End, FColor::Red);
+	//DrawDebugSphere(GetWorld(), End, 10, 10, FColor::Blue, false, 5);
 
 
 	//Return the actor who got hit

@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WorldCreatorBridge.cpp.obj": [
+			"WorldCreatorBridge.cpp.obj",
+			"WorldCreatorBridgeCommands.cpp.obj",
+			"WorldCreatorBridgeStyle.cpp.obj"
+		]
+	}
+}

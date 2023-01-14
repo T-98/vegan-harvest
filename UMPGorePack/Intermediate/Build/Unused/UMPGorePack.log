@@ -1,5 +1,6 @@
 ﻿  Using bundled DotNet SDK
-  Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (N:\Github\vegan-harvest).
+  Log file: C:\Users\Jonathan Fuller\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Vegan Zombies\vegan-harvest).
+  Waiting for 'git status' command to complete
   Target is up to date
-  Total execution time: 0.64 seconds
+  Total execution time: 2.21 seconds

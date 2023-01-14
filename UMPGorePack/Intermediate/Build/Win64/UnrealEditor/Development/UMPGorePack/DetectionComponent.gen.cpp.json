@@ -1,13 +1,13 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.gen.cpp",
+        "Source": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
-            "n:\\github\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.h",
-            "n:\\github\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.generated.h"
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h",
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\source\\umpgorepack\\detectioncomponent.h",
+            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\detectioncomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
