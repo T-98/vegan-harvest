@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UMPGorePack",
-			"Path": "D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
+			"Path": "E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UMPGorePackEditor",
-			"Path": "D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs",
+			"Path": "E:\\GitHub\\Harvest\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
