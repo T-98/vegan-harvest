@@ -23,13 +23,20 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
+	TMap<FName, int> map;
+
 	UFUNCTION(BlueprintCallable)
 		void AddVegetable(AActor* Actor);
 
 	UFUNCTION(BlueprintCallable)
 		int GetCount(const FName& Vegetable);
 
-	TMap<FName, uint32> map;
+	UFUNCTION(BlueprintCallable)
+		TMap<FName, int>& GetMap();
+
+	UFUNCTION(BlueprintCallable)
+		FString StringifyMap(const TMap<FName, int> &map_);
 
 private: 
 	

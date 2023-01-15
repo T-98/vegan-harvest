@@ -83,10 +83,10 @@ int UDetectionComponent::GetCount(const FName& Vegetable)
 	return 0;
 }
 
-static FString StringifyMap(const TMap<FName, uint32> &map) {
+FString UDetectionComponent::StringifyMap(const TMap<FName, int> &map_) {
     FString out;
     bool bFirst = true;
-    for (const auto &pair : map) {
+    for (const auto &pair : map_) {
         if (bFirst)
             bFirst = false;
         else
@@ -94,4 +94,9 @@ static FString StringifyMap(const TMap<FName, uint32> &map) {
         out += pair.Key.ToString() + TEXT(" => ") + FString::FromInt(pair.Value);
     }
     return out;
+}
+
+TMap<FName, int>& UDetectionComponent::GetMap()
+{
+	return map;
 }
