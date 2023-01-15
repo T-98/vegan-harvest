@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\UMPGorePack.uproject" />
     <Filter Include="Source">
@@ -37,6 +37,87 @@
     </Filter>
     <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
       <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0">
+      <UniqueIdentifier>{13FEF8F3-A09A-3B6D-88FF-9F8B20063E19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source">
+      <UniqueIdentifier>{4B136E2D-C076-31BC-B804-07034A39BA81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge">
+      <UniqueIdentifier>{109A5743-C3C1-3506-9633-CE457B9B85BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\WorldCreatorBridge.Build.cs">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge</Filter>
+    </None>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private">
+      <UniqueIdentifier>{CCEA8CD1-47DC-3B86-9AEB-4F3D5C3FB055}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private\WorldCreatorBridge.cpp">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private\WorldCreatorBridgeCommands.cpp">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private\WorldCreatorBridgeStyle.cpp">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public">
+      <UniqueIdentifier>{072DAED9-0D18-3373-A336-29DE4E818352}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public\WorldCreatorBridge.h">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public\WorldCreatorBridgeCommands.h">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public\WorldCreatorBridgeStyle.h">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public\XmlHelper.h">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Source\WorldCreatorBridge\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\WorldCreatorBridge.uplugin">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0</Filter>
+    </None>
+    <Filter Include="Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources">
+      <UniqueIdentifier>{E51B3D98-B020-351E-94F5-471014265078}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\banner_wc.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\Icon128.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_artstation.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_discord.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_facebook.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_instagram.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_twitch.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_twitter.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_vimeo.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_wc.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources\icon_youtube.png">
+      <Filter>Plugins\WorldCreatorBridgeFor_Unreal_5_0\Resources</Filter>
     </None>
     <Filter Include="Source\UMPGorePack">
       <UniqueIdentifier>{36E2A338-F4A6-3308-AB43-02EB45A283EF}</UniqueIdentifier>
