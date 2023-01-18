@@ -21,6 +21,10 @@
 		{
 			"Name": "WorldCreatorBridge",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
