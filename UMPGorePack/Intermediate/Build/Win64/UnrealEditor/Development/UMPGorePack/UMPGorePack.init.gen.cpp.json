@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\umpgorepack.init.gen.cpp",
+        "Source": "d:\\code\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\inc\\umpgorepack\\umpgorepack.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\code\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\umpgorepackeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\vegan zombies\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h"
+            "d:\\code\\vegan-harvest\\umpgorepack\\intermediate\\build\\win64\\unrealeditor\\development\\umpgorepack\\definitions.umpgorepack.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -9,6 +9,7 @@
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
+ 
 #ifdef UMPGOREPACK_DetectionComponent_generated_h
 #error "DetectionComponent.generated.h already included, missing '#pragma once' in DetectionComponent.h"
 #endif
@@ -17,12 +18,20 @@ class AActor;
 #define FID_UMPGorePack_Source_UMPGorePack_DetectionComponent_h_13_SPARSE_DATA
 #define FID_UMPGorePack_Source_UMPGorePack_DetectionComponent_h_13_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execCleanup); \
+	DECLARE_FUNCTION(execGetVegetableSet); \
+	DECLARE_FUNCTION(execStringifyMap); \
+	DECLARE_FUNCTION(execGetMap); \
 	DECLARE_FUNCTION(execGetCount); \
 	DECLARE_FUNCTION(execAddVegetable);
 
 
 #define FID_UMPGorePack_Source_UMPGorePack_DetectionComponent_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execCleanup); \
+	DECLARE_FUNCTION(execGetVegetableSet); \
+	DECLARE_FUNCTION(execStringifyMap); \
+	DECLARE_FUNCTION(execGetMap); \
 	DECLARE_FUNCTION(execGetCount); \
 	DECLARE_FUNCTION(execAddVegetable);
 
