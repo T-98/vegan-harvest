@@ -134,6 +134,12 @@
     <ClInclude Include="..\..\Source\UMPGorePack\Grabber.h">
       <Filter>Source\UMPGorePack</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\UMPGorePack\Recipebuilder.cpp">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMPGorePack\Recipebuilder.h">
+      <Filter>Source\UMPGorePack</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UMPGorePack\UMPGorePack.Build.cs">
       <Filter>Source\UMPGorePack</Filter>
     </None>

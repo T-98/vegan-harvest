@@ -100,3 +100,8 @@ TMap<FName, int>& UDetectionComponent::GetMap()
 {
 	return map;
 }
+
+TSet<TWeakObjectPtr<AActor>>& UDetectionComponent::GetVegetableSet()
+{
+	return VegetableSet;
+}

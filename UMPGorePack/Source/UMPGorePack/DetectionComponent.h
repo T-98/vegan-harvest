@@ -38,8 +38,13 @@ public:
 	UFUNCTION(BlueprintCallable)
 		FString StringifyMap(const TMap<FName, int> &map_);
 
+	UFUNCTION()
+		TSet<TWeakObjectPtr<AActor>>& GetVegetableSet();
+
+	UFUNCTION()
+		void Cleanup();
+
 private: 
 	
 	TSet<TWeakObjectPtr<AActor>> VegetableSet;
-	void Cleanup();
 };

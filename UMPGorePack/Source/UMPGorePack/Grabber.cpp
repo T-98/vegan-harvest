@@ -56,6 +56,14 @@ void UGrabber::Grab()
 
 			AActor* HitActor = HitResult.GetActor();
 			HitActor->Tags.Add("Grabbed");
+
+			//if the grabbed actor is a vegetable, increase life span
+			if(HitActor->Tags.Contains("Vegetable")){
+				HitActor->SetLifeSpan(3600.0);
+			}
+
+			//UE_LOG(LogTemp, Display, TEXT("Lifespan: %f"), HitActor->GetLifeSpan());
+
 			HitActor->DetachFromActor(FDetachmentTransformRules::KeepRelativeTransform);
 
 			PhysicsHandle->GrabComponentAtLocationWithRotation(
@@ -66,7 +74,7 @@ void UGrabber::Grab()
 			);
 			//DrawDebugSphere(GetWorld(), HitResult.Location, 10, 10, FColor::Green, false, 5);
 			//DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 10, 10, FColor::Red, false, 5);
-			UE_LOG(LogTemp, Display, TEXT("Hit Actor: %s"), *HitResult.GetActor()->GetActorNameOrLabel());
+			//UE_LOG(LogTemp, Display, TEXT("Hit Actor: %s"), *HitResult.GetActor()->GetActorNameOrLabel());
 		}
 		else
 		{
@@ -90,7 +98,7 @@ void UGrabber::Release()
 
 		//release the grabbed component
 		PhysicsHandle->ReleaseComponent();
-		UE_LOG(LogTemp, Display, TEXT("Released grabber"));
+		//UE_LOG(LogTemp, Display, TEXT("Released grabber"));
 	}
 }
 
