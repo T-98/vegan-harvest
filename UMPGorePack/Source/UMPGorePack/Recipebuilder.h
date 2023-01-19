@@ -35,6 +35,8 @@ private:
 
 	TArray<FName> Ingredients;
 	TMap<FName, int> RecipeMap;
+	TArray<FName> VegetableKeys;
+	TArray<int> VegetableValues;
 
 	UFUNCTION(BlueprintCallable)
 		void CreateRecipe();
@@ -47,4 +49,10 @@ private:
 
 	UFUNCTION(BlueprintCallable)
 		void ResetRecipeMap();
+
+	UFUNCTION(BlueprintCallable)
+		TArray<FName>& GetKeyArray();
+
+	UFUNCTION(BlueprintCallable)
+		TArray<int>& GetValueArray();
 };

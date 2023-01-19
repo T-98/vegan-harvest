@@ -16,6 +16,12 @@ URecipebuilder::URecipebuilder()
 	Ingredients.Add(FName("GreenBellPepper"));
 	Ingredients.Add(FName("Eggplant"));
 	Ingredients.Add(FName("Garlic"));
+
+	FName defaultKey = "DefaultKey";
+	VegetableKeys.Add(defaultKey);
+
+	int defaultVal = 0;
+	VegetableValues.Add(defaultVal);
 	// ...
 }
 
@@ -118,6 +124,18 @@ void URecipebuilder::UpdateRecipeUI()
 TMap<FName, int>& URecipebuilder::GetRecipeMap()
 {
 	return RecipeMap;
+}
+
+TArray<FName>& URecipebuilder::GetKeyArray()
+{
+	RecipeMap.GenerateKeyArray(VegetableKeys);
+	return VegetableKeys;
+}
+
+TArray<int>& URecipebuilder::GetValueArray()
+{
+	RecipeMap.GenerateValueArray(VegetableValues);
+	return VegetableValues;
 }
 
 //check if all ingredients for the current recipe are delivered
