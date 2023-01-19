@@ -41,4 +41,10 @@ private:
 
 	UFUNCTION(BlueprintCallable)
 		void UpdateRecipeUI();
+
+	UFUNCTION(BlueprintCallable)
+		bool IsRecipeComplete() const;
+
+	UFUNCTION(BlueprintCallable)
+		void ResetRecipeMap();
 };

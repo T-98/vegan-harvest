@@ -14,6 +14,20 @@ void EmptyLinkFunctionForGeneratedCodeRecipebuilder() {}
 	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
 	UPackage* Z_Construct_UPackage__Script_UMPGorePack();
 // End Cross Module References
+	DEFINE_FUNCTION(URecipebuilder::execResetRecipeMap)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->ResetRecipeMap();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(URecipebuilder::execIsRecipeComplete)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(bool*)Z_Param__Result=P_THIS->IsRecipeComplete();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(URecipebuilder::execUpdateRecipeUI)
 	{
 		P_FINISH;
@@ -49,6 +63,8 @@ void EmptyLinkFunctionForGeneratedCodeRecipebuilder() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "CreateRecipe", &URecipebuilder::execCreateRecipe },
 			{ "GetRecipeMap", &URecipebuilder::execGetRecipeMap },
+			{ "IsRecipeComplete", &URecipebuilder::execIsRecipeComplete },
+			{ "ResetRecipeMap", &URecipebuilder::execResetRecipeMap },
 			{ "StringifyMap", &URecipebuilder::execStringifyMap },
 			{ "UpdateRecipeUI", &URecipebuilder::execUpdateRecipeUI },
 		};
@@ -111,6 +127,65 @@ void EmptyLinkFunctionForGeneratedCodeRecipebuilder() {}
 		if (!ReturnFunction)
 		{
 			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_URecipebuilder_GetRecipeMap_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics
+	{
+		struct Recipebuilder_eventIsRecipeComplete_Parms
+		{
+			bool ReturnValue;
+		};
+		static void NewProp_ReturnValue_SetBit(void* Obj);
+		static const UECodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+	void Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::NewProp_ReturnValue_SetBit(void* Obj)
+	{
+		((Recipebuilder_eventIsRecipeComplete_Parms*)Obj)->ReturnValue = 1;
+	}
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(Recipebuilder_eventIsRecipeComplete_Parms), &Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Recipebuilder.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_URecipebuilder, nullptr, "IsRecipeComplete", nullptr, nullptr, sizeof(Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::Recipebuilder_eventIsRecipeComplete_Parms), Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_URecipebuilder_IsRecipeComplete()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_URecipebuilder_IsRecipeComplete_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Recipebuilder.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_URecipebuilder, nullptr, "ResetRecipeMap", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_URecipebuilder_ResetRecipeMap()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_URecipebuilder_ResetRecipeMap_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -208,6 +283,8 @@ void EmptyLinkFunctionForGeneratedCodeRecipebuilder() {}
 	const FClassFunctionLinkInfo Z_Construct_UClass_URecipebuilder_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_URecipebuilder_CreateRecipe, "CreateRecipe" }, // 46332662
 		{ &Z_Construct_UFunction_URecipebuilder_GetRecipeMap, "GetRecipeMap" }, // 2546163023
+		{ &Z_Construct_UFunction_URecipebuilder_IsRecipeComplete, "IsRecipeComplete" }, // 2404017308
+		{ &Z_Construct_UFunction_URecipebuilder_ResetRecipeMap, "ResetRecipeMap" }, // 732120994
 		{ &Z_Construct_UFunction_URecipebuilder_StringifyMap, "StringifyMap" }, // 1684255725
 		{ &Z_Construct_UFunction_URecipebuilder_UpdateRecipeUI, "UpdateRecipeUI" }, // 1122051713
 	};
@@ -255,9 +332,9 @@ void EmptyLinkFunctionForGeneratedCodeRecipebuilder() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_URecipebuilder, URecipebuilder::StaticClass, TEXT("URecipebuilder"), &Z_Registration_Info_UClass_URecipebuilder, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(URecipebuilder), 1231522119U) },
+		{ Z_Construct_UClass_URecipebuilder, URecipebuilder::StaticClass, TEXT("URecipebuilder"), &Z_Registration_Info_UClass_URecipebuilder, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(URecipebuilder), 3030910954U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_513681930(TEXT("/Script/UMPGorePack"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_1169357567(TEXT("/Script/UMPGorePack"),
 		Z_CompiledInDeferFile_FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

@@ -17,6 +17,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_14_SPARSE_DATA
 #define FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_14_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execResetRecipeMap); \
+	DECLARE_FUNCTION(execIsRecipeComplete); \
 	DECLARE_FUNCTION(execUpdateRecipeUI); \
 	DECLARE_FUNCTION(execCreateRecipe); \
 	DECLARE_FUNCTION(execStringifyMap); \
@@ -25,6 +27,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_UMPGorePack_Source_UMPGorePack_Recipebuilder_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execResetRecipeMap); \
+	DECLARE_FUNCTION(execIsRecipeComplete); \
 	DECLARE_FUNCTION(execUpdateRecipeUI); \
 	DECLARE_FUNCTION(execCreateRecipe); \
 	DECLARE_FUNCTION(execStringifyMap); \

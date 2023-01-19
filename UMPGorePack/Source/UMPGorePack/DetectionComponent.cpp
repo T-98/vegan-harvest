@@ -55,7 +55,7 @@ void UDetectionComponent::AddVegetable(AActor* Actor)
 
 void UDetectionComponent::Cleanup()
 {
-	if(VegetableSet.Num() > 20)
+	if(VegetableSet.Num() > 4)
 	{
 		TArray<TWeakObjectPtr<AActor>> ToRemove;
 

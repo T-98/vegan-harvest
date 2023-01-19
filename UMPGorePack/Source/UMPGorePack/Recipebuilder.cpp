@@ -55,6 +55,12 @@ void URecipebuilder::CreateRecipe()
 	}
 }
 
+//reset recipe map to be used again
+void URecipebuilder::ResetRecipeMap()
+{
+	RecipeMap.Reset();
+}
+
 
 void URecipebuilder::UpdateRecipeUI()
 {
@@ -66,7 +72,7 @@ void URecipebuilder::UpdateRecipeUI()
 
 	for(auto& p : RecipeMap)
 	{
-		//if the veggie exists in the player's map and the count is more than that required by the recipe
+		//if the veggie exists in the player's map
 		if(DetectionMap.Contains(p.Key))
 		{
 			int count = 0, i = 0;
@@ -77,6 +83,7 @@ void URecipebuilder::UpdateRecipeUI()
 				DetectionMap[p.Key] = DetectionMap[p.Key] - p.Value;
 				p.Value = 0;
 			}
+			//if the recipe has more of a veggie
 			else
 			{
 				count = DetectionMap[p.Key];
@@ -99,6 +106,9 @@ void URecipebuilder::UpdateRecipeUI()
 				DetectionComponent->Cleanup();
 			}
 
+			//remove the veggie from the map if the count is 0
+			//if(p.Value == 0) RecipeMap.Remove(p.Key);
+
 		}
 		UE_LOG(LogTemp, Warning, TEXT("KEY: %s"), *p.Key.ToString());
 		UE_LOG(LogTemp, Warning, TEXT("VALUE: %d"), p.Value);
@@ -108,6 +118,16 @@ void URecipebuilder::UpdateRecipeUI()
 TMap<FName, int>& URecipebuilder::GetRecipeMap()
 {
 	return RecipeMap;
+}
+
+//check if all ingredients for the current recipe are delivered
+bool URecipebuilder::IsRecipeComplete() const
+{
+	for(auto& p : RecipeMap)
+	{
+		if(p.Value != 0) return false;
+	}
+	return true;
 }
 
 FString URecipebuilder::StringifyMap(const TMap<FName, int> &map_) 
