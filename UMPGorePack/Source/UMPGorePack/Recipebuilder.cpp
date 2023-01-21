@@ -3,11 +3,11 @@
 
 #include "Recipebuilder.h"
 
-// Sets default values for this component's properties
+//! Sets default values for this component's properties
 URecipebuilder::URecipebuilder()
 {
-	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
-	// off to improve performance if you don't need them.
+	//! Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
+	//! off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
 	Ingredients.Add(FName("Pumpkin"));
@@ -26,7 +26,7 @@ URecipebuilder::URecipebuilder()
 }
 
 
-// Called when the game starts
+//! Called when the game starts
 void URecipebuilder::BeginPlay()
 {
 	Super::BeginPlay();
@@ -36,7 +36,7 @@ void URecipebuilder::BeginPlay()
 }
 
 
-// Called every frame
+//! Called every frame
 void URecipebuilder::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
@@ -49,47 +49,47 @@ void URecipebuilder::CreateRecipe()
 	int numIngredients = FMath::RandRange(1, 10);
 	while(numIngredients > 0)
 	{
-		//Get a random ingredient
+		//!Get a random ingredient
 		FName Ingredient = Ingredients[FMath::RandRange(0, 5)];
 
-		//add it to the map or increase count basd on if it already exists or not
+		//!add it to the map or increase count basd on if it already exists or not
 		if(RecipeMap.Contains(Ingredient))++RecipeMap[Ingredient];
 		else RecipeMap.Add(Ingredient, 1);
 
-		//decrement numIngredients
+		//!decrement numIngredients
 		--numIngredients;
 	}
 }
 
-//reset recipe map to be used again
+//!reset recipe map to be used again
 void URecipebuilder::ResetRecipeMap()
 {
 	RecipeMap.Reset();
 }
 
-
+//!A function to keep track of the status of the current recipe, i.e. the level of completion
 void URecipebuilder::UpdateRecipeUI()
 {
-	//Get the detection component
+	//!<Get the detection component
 	UDetectionComponent* DetectionComponent = GetOwner()->FindComponentByClass<UDetectionComponent>();
 
-	//Get the map of vegetables that the player actually brought in
+	//<Get the map of vegetables that the player actually brought in
 	TMap<FName, int>& DetectionMap = DetectionComponent->GetMap();
 
 	for(auto& p : RecipeMap)
 	{
-		//if the veggie exists in the player's map
+		//<if the veggie exists in the player's map
 		if(DetectionMap.Contains(p.Key))
 		{
 			int count = 0, i = 0;
-			//if the player has more of a veggie
+			//<if the player has more of a veggie
 			if(*DetectionMap.Find(p.Key) > p.Value)
 			{
 				count = p.Value;
 				DetectionMap[p.Key] = DetectionMap[p.Key] - p.Value;
 				p.Value = 0;
 			}
-			//if the recipe has more of a veggie
+			//<if the recipe has more of a veggie
 			else
 			{
 				count = DetectionMap[p.Key];
@@ -97,7 +97,7 @@ void URecipebuilder::UpdateRecipeUI()
 				DetectionMap[p.Key] = 0;
 			}
 
-			//Despawn veggies that have been consumed
+			//<Despawn veggies that have been consumed
 			TSet<TWeakObjectPtr<AActor>>& VeggieSet = DetectionComponent->GetVegetableSet();
 			if(count > 0)
 			{
@@ -112,8 +112,8 @@ void URecipebuilder::UpdateRecipeUI()
 				DetectionComponent->Cleanup();
 			}
 
-			//remove the veggie from the map if the count is 0
-			//if(p.Value == 0) RecipeMap.Remove(p.Key);
+			//!remove the veggie from the map if the count is 0
+			//!if(p.Value == 0) RecipeMap.Remove(p.Key);
 
 		}
 		UE_LOG(LogTemp, Warning, TEXT("KEY: %s"), *p.Key.ToString());
