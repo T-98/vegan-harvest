@@ -253,6 +253,12 @@ D:\code\vegan-harvest\UMPGorePack\Source\UMPGorePack\UMPGorePack.cpp
 /I Developer\AnimationDataController\Public
 /I D:\code\vegan-harvest\UMPGorePack\Intermediate\Build\Win64\UnrealEditor\Inc\UMPGorePack
 /I D:\code\vegan-harvest\UMPGorePack\Source
+/I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities
+/I ..\Plugins\Runtime\GameplayAbilities\Source
+/I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
+/I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry
+/I ..\Plugins\Runtime\DataRegistry\Source
+/I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
