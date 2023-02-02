@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\code\\github\\vegan-harvest\\vzca\\intermediate\\build\\win64\\unrealeditor\\inc\\veganzombiecropapocalypse\\detectioncomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\code\\github\\vegan-harvest\\vzca\\intermediate\\build\\win64\\veganzombiecropapocalypseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\code\\github\\vegan-harvest\\vzca\\intermediate\\build\\win64\\unrealeditor\\development\\veganzombiecropapocalypse\\definitions.veganzombiecropapocalypse.h",
+            "d:\\code\\github\\vegan-harvest\\vzca\\source\\veganzombiecropapocalypse\\detectioncomponent.h",
+            "d:\\code\\github\\vegan-harvest\\vzca\\intermediate\\build\\win64\\unrealeditor\\inc\\veganzombiecropapocalypse\\detectioncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
