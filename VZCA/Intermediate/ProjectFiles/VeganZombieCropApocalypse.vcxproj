@@ -173,9 +173,6 @@
     <None Include="..\..\Source\VeganZombieCropApocalypse.Target.cs"/>
     <None Include="..\..\Source\VeganZombieCropApocalypseEditor.Target.cs"/>
     <None Include="..\..\.gitattributes"/>
-    <None Include="..\..\AssetsvilleTown.png"/>
-    <None Include="..\..\Scanned3DPeoplePack.png"/>
-    <None Include="..\..\UMPGorePack.png"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
