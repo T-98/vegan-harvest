@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack\\UMPGorePack.Build.cs",
-		"D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Plugins\\WorldCreatorBridgeFor_Unreal_5_0\\Source\\WorldCreatorBridge\\WorldCreatorBridge.Build.cs",
-		"D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
-		"D:\\Vegan Zombies\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs"
+		"D:\\code\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack\\UMPGorePack.Build.cs",
+		"D:\\code\\vegan-harvest\\UMPGorePack\\Plugins\\WorldCreatorBridgeFor_Unreal_5_0\\Source\\WorldCreatorBridge\\WorldCreatorBridge.Build.cs",
+		"D:\\code\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePack.Target.cs",
+		"D:\\code\\vegan-harvest\\UMPGorePack\\Source\\UMPGorePackEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
