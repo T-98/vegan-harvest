@@ -1,6 +1,5 @@
 ﻿  Using bundled DotNet SDK
-  Log file: C:\Users\Jan\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (E:\GitHub\Harvest\vegan-harvest).
-  Creating makefile for VeganZombieCropApocalypseEditor (no existing makefile)
+  Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\code\Github\vegan-harvest).
   Target is up to date
-  Total execution time: 1.54 seconds
+  Total execution time: 0.80 seconds

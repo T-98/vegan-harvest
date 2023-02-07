@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "VeganZombieCropApocalypse",
-			"Path": "E:\\GitHub\\Harvest\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypse.Target.cs",
+			"Path": "D:\\code\\Github\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypse.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "VeganZombieCropApocalypseEditor",
-			"Path": "E:\\GitHub\\Harvest\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypseEditor.Target.cs",
+			"Path": "D:\\code\\Github\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypseEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
