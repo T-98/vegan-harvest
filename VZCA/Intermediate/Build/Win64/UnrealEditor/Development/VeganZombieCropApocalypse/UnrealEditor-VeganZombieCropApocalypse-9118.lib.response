@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VeganZombieCropApocalypse-9118.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\VeganZombieCropApocalypseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\DetectionComponent.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\Grabber.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\PawnSwitcher.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\Recipebuilder.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\VeganZombieCropApocalypse.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\DetectionComponent.gen.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\Grabber.gen.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\PawnSwitcher.gen.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\Recipebuilder.gen.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\VeganZombieCropApocalypse.init.gen.cpp.obj"
+"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\Default.rc2.res"
+/OUT:"C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\UnrealEditor-VeganZombieCropApocalypse-9118.lib"

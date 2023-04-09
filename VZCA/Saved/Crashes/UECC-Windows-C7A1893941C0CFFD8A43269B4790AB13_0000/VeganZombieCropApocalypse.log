@@ -1,0 +1,1509 @@
+﻿Log file open, 04/09/23 14:17:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=26248)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VeganZombieCropApocalypse
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\VeganZombieCropApocalypse.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1413] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 5950X 16-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="335d99a44f14dbcf90ad7fb810a0a129"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.224216
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C7A1893941C0CFFD8A43269B4790AB13
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Project plugin WorldCreatorBridge
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HDRIBackdrop/Content/' mounted to '/HDRIBackdrop/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1413] (), CPU: AMD Ryzen 9 5950X 16-Core Processor            , GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.09-12.17.58:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.09-12.17.58:185][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.09-12.17.58:185][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.09-12.17.58:185][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.09-12.17.58:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.09-12.17.58:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.09-12.17.58:185][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.09-12.17.58:185][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.09-12.17.58:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.09-12.17.58:186][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.09-12.17.58:188][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.09-12.17.58:202][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     SubSysId    : 88031043
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     DedicatedVideoMemory : 12687769600 bytes
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     SharedSystemMemory : 34319198208 bytes
+[2023.04.09-12.17.58:206][  0]LogD3D11RHI:     AdapterLuid : 0 85646
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Ti' (Feature Level 11_1)
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:       12100/0/32729 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     Revision    : 0000
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     SharedSystemMemory : 34319198208 bytes
+[2023.04.09-12.17.58:292][  0]LogD3D11RHI:     AdapterLuid : 0 88924
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:       0/0/32729 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     SubSysId    : 88031043
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     DedicatedVideoMemory : 12687769600 bytes
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     SharedSystemMemory : 34319198208 bytes
+[2023.04.09-12.17.58:294][  0]LogD3D11RHI:     AdapterLuid : 0 85646
+[2023.04.09-12.17.58:294][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.09-12.17.58:294][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.09-12.17.58:294][  0]LogHAL: Display: Platform has ~ 64 GB [68638396416 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.09-12.17.58:294][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.09-12.17.58:294][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.09-12.17.58:294][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.09-12.17.58:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.09-12.17.58:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.09-12.17.58:294][  0]LogInit: Computer: THEBEAST
+[2023.04.09-12.17.58:294][  0]LogInit: User: joach
+[2023.04.09-12.17.58:294][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.04.09-12.17.58:294][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.09-12.17.58:294][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.04.09-12.17.58:294][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.09-12.17.58:294][  0]LogMemory: Process Physical Memory: 305.64 MB used, 315.19 MB peak
+[2023.04.09-12.17.58:294][  0]LogMemory: Process Virtual Memory: 306.80 MB used, 306.80 MB peak
+[2023.04.09-12.17.58:294][  0]LogMemory: Physical Memory: 16709.54 MB used,  48749.14 MB free, 65458.68 MB total
+[2023.04.09-12.17.58:295][  0]LogMemory: Virtual Memory: 20007.67 MB used,  49547.01 MB free, 69554.67 MB total
+[2023.04.09-12.17.58:295][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.09-12.17.58:300][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.09-12.17.58:313][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.09-12.17.58:313][  0]LogInit: Using OS detected language (en-US).
+[2023.04.09-12.17.58:313][  0]LogInit: Using OS detected locale (nb-NO).
+[2023.04.09-12.17.58:319][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.04.09-12.17.58:437][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.09-12.17.58:453][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.09-12.17.58:453][  0]LogWindowsTextInputMethodSystem:   - Norwegian Bokmål (Norway) - (Keyboard).
+[2023.04.09-12.17.58:453][  0]LogWindowsTextInputMethodSystem: Activated input method: Norwegian Bokmål (Norway) - (Keyboard).
+[2023.04.09-12.17.58:465][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.09-12.17.58:465][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.09-12.17.58:584][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.09-12.17.58:584][  0]LogD3D11RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.09-12.17.58:584][  0]LogWindows: Attached monitors:
+[2023.04.09-12.17.58:584][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.09-12.17.58:584][  0]LogWindows:     resolution: 3840x2160, work area: (-3840, -156) -> (0, 1932), device: '\\.\DISPLAY2'
+[2023.04.09-12.17.58:584][  0]LogWindows: Found 2 attached monitors.
+[2023.04.09-12.17.58:584][  0]LogWindows: EnumDisplayDevices:
+[2023.04.09-12.17.58:584][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.09-12.17.58:584][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.04.09-12.17.58:585][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.09-12.17.58:585][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.09-12.17.58:585][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:      Driver Date: 3-16-2023
+[2023.04.09-12.17.58:585][  0]LogRHI: Texture pool is 8470 MB (70% of 12100 MB)
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     SubSysId    : 88031043
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     DedicatedVideoMemory : 12687769600 bytes
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     SharedSystemMemory : 34319198208 bytes
+[2023.04.09-12.17.58:585][  0]LogD3D11RHI:     AdapterLuid : 0 85646
+[2023.04.09-12.17.58:639][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.09-12.17.58:640][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.09-12.17.58:640][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.04.09-12.17.58:640][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.09-12.17.58:640][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2023.04.09-12.17.58:659][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.04.09-12.17.58:684][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.09-12.17.58:689][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/TurnkeyReport_0.log" -log="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/TurnkeyLog_0.log" -project="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject"  -platform=all'
+[2023.04.09-12.17.58:689][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/TurnkeyReport_0.log" -log="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/TurnkeyLog_0.log" -project="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject"  -platform=all" ]
+[2023.04.09-12.17.58:708][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.09-12.17.58:714][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.09-12.17.58:714][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.09-12.17.58:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.09-12.17.58:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.09-12.17.58:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.09-12.17.58:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.09-12.17.58:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.09-12.17.58:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.09-12.17.58:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.09-12.17.58:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.09-12.17.58:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.09-12.17.58:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.09-12.17.58:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.09-12.17.58:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.09-12.17.58:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.09-12.17.58:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.09-12.17.58:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.09-12.17.58:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.09-12.17.58:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.09-12.17.58:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.09-12.17.58:754][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.09-12.17.58:760][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.09-12.17.58:762][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.09-12.17.58:763][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.09-12.17.58:763][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.09-12.17.58:763][  0]LogTargetPlatformManager:   PCM
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager:   BINKA
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager:   OGG
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.09-12.17.58:765][  0]LogTargetPlatformManager:   OPUS
+[2023.04.09-12.17.58:804][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.09-12.17.58:809][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.09-12.17.58:811][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.09-12.17.58:812][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/ShaderAutogen/SF_VULKAN_SM5/AutogenShaderHeaders.ush
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.09-12.17.58:812][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.09-12.17.58:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.09-12.17.58:815][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.09-12.17.58:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.09-12.17.58:815][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.09-12.17.58:831][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.09-12.17.58:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.09-12.17.58:831][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.09-12.17.58:836][  0]LogDerivedDataCache: Speed tests for C:/Users/joach/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.04.09-12.17.58:836][  0]LogDerivedDataCache: Display: Performance to C:/Users/joach/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1295.91MBs, RandomWriteSpeed=254.51MBs. Assigned SpeedClass 'Local'
+[2023.04.09-12.17.58:837][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joach/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.09-12.17.58:837][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.09-12.17.58:837][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.09-12.17.58:841][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.09-12.17.58:841][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.09-12.17.58:842][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Intermediate/Shaders/WorkingDirectory/36132/).
+[2023.04.09-12.17.58:842][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joach/AppData/Local/Temp/UnrealShaderWorkingDir/D20EFC154DD97FCB30FAF89E4A270623/'.
+[2023.04.09-12.17.58:842][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.09-12.17.58:842][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 16 workers.
+[2023.04.09-12.17.59:936][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.09-12.17.59:936][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.09-12.17.59:937][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.09-12.17.59:964][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2023.04.09-12.17.59:968][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.09-12.18.00:112][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.09-12.18.00:112][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.09-12.18.00:306][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.09-12.18.00:306][  0]LogDeviceProfileManager: Active device profile: [000007F5C7726580][000007F5B6FE7800 50] WindowsEditor
+[2023.04.09-12.18.00:306][  0]LogDeviceProfileManager: Profiles: [000007F5C7726040][000007F590F25000 50] Windows, [000007F5C7726580][000007F5B6FE7800 50] WindowsEditor, [000007F5C7722680][000007F5B6D5C800 50] WindowsServer, [000007F5C77239C0][000007F5C77D0000 50] WindowsClient, [000007F5C7723B80][000007F5C77D5000 50] IOS, [000007F5C7725940][000007F5C77D7800 50] iPadAir2, [000007F5C7722F40][000007F5C77DC800 50] IPadPro, [000007F5C7723100][000007F5C77DA000 50] iPadAir3, [000007F5C77255C0][000007F5BD050000 50] iPadAir4, [000007F5C7725E80][000007F5C79A0000 50] iPadMini4, [000007F5C7726740][000007F5C79A5000 50] iPadMini5, [000007F5C7724280][000007F5C79A7800 50] iPadMini6, [000007F5C7729D80][000007F5C77D2800 50] iPhone6S, [000007F5C772A100][000007F5C79AC800 50] iPhone7, [000007F5C772A480][000007F5C79AA000 50] iPodTouch7, [000007F5C7723D40][000007F5C79B0000 50] iPhone6SPlus, [000007F5C7729300][000007F5C79B5000 50] iPhone7Plus, [000007F5C7722840][000007F5C79B7800 50] iPhoneSE, [000007F5C7722A00][000007F5C79BA000 50] iPhone8, [000007F5C7727E00][000007F5C79BC800 50] iPhone8Plus, [000007F5C7721DC0][000007F5C79A2800 50] iPhoneX, [000007F5C7725CC0][000007F5C79D0000 50] iPhoneXS, [000007F5C7728340][000007F5C79D5000 50] iPhoneXSMax, [000007F5C7722140][000007F5C79D7800 50] iPhoneXR, [000007F5C7724D00][000007F5C79DA000 50] iPhone11, [000007F5C7727540][000007F5C79DC800 50] iPhone11Pro, [000007F5C77232C0][000007F5C79B2800 50] iPhone11ProMax, [000007F5C7724B40][000007F5C77E0000 50] iPhoneSE2, [000007F5C7729BC0][000007F5C77E5000 50] iPhone12Mini, [000007F5C7721F80][000007F5C77E7800 50] iPhone12, [000007F5C77294C0][000007F5C77EA000 50] iPhone12Pro, [000007F5C7725780][000007F5C77EC800 50] iPhone12ProMax, [000007F5C7728DC0][000007F5C79D2800 50] iPhone13Mini, [000007F5C7726E40][000007F5C79E0000 50] iPhone13, [000007F5C7728180][000007F5C79E5000 50] iPhone13Pro, [000007F5C772A640][000007F5C79E7800 50] iPhone13ProMax, [000007F5C7722D80][000007F5C79EA000 50] iPadPro105, [000007F5C7725400][000007F5C79EC800 50] iPadPro129, [000007F5C7728A40][000007F5C77E2800 50] iPadPro97, [000007F5C7722BC0][000007F5C7A00000 50] iPadPro2_129, [000007F5C772A2C0][000007F5C7A05000 50] iPad5, [000007F5C7725080][000007F5C7A07800 50] iPad6, [000007F5C7726900][000007F5C7A0A000 50] iPad7, [000007F5C7723800][000007F5C7A0C800 50] iPad8, [000007F5C7727FC0][000007F5C79E2800 50] iPad9, [000007F5C7726AC0][000007F5C7A10000 50] iPadPro11, [000007F5C772AB80][000007F5C7A15000 50] iPadPro2_11, [000007F5C7728500][000007F5C7A17800 50] iPadPro3_11, [000007F5C772A9C0][000007F5C7A1A000 50] iPadPro3_129, [000007F5C7728F80][000007F5C7A1C800 50] iPadPro4_129, [000007F5C77263C0][000007F5C7A02800 50] iPadPro5_129, [000007F5C7729140][000007F5C7A20000 50] AppleTV, [000007F5C7724440][000007F5C7A25000 50] AppleTV4K, [000007F5C7723640][000007F5C7A27800 50] TVOS, [000007F5C772C080][000007F5C7A2C800 50] Mac, [000007F5C772C400][000007F5C7A2A000 50] MacEditor, [000007F5C772AD40][000007F5C7A12800 50] MacClient, [000007F5C7724980][000007F5C7A30000 50] MacServer, [000007F5C772BB40][000007F5C7A37800 50] Linux, [000007F5C77224C0][000007F5C7A35000 50] LinuxEditor, [000007F5C7727700][000007F5C7A3A000 50] LinuxArm64Editor, [000007F5C772A800][000007F5C7A3C800 50] LinuxArm64, [000007F5C7723480][000007F5C7A22800 50] LinuxClient, [000007F5C772B7C0][000007F5C7A40000 50] LinuxArm64Client, [000007F5C772B440][000007F5C7A45000 50] LinuxServer, [000007F5C772C940][000007F5C7A47800 50] LinuxArm64Server, [000007F5C7727380][000007F5C7A4A000 50] Android, [000007F5C7721500][000007F5C7A4C800 50] Android_Preview_OpenGL, [000007F5C7728C00][000007F5C7A32800 50] Android_Preview_Vulkan, [000007F5C7721C00][000007F5C7A50000 50] Android_Low, [000007F5C772B280][000007F5C7A55000 50] Android_Mid, [000007F5C7729A00][000007F5C7A57800 50] Android_High, [000007F5C772B980][000007F5C7A5A000 50] Android_Default, [000007F5C772BEC0][000007F5C7A5C800 50] Android_Adreno4xx, [000007F5C7727000][000007F5C7A42800 50] Android_Adreno5xx_Low, [000007F5C772C5C0][000007F5C7A60000 50] Android_Adreno5xx, [000007F5C7726C80][000007F5C7A65000 50] Android_Adreno6xx, [000007F5C7727A80][000007F5C7A67800 50] Android_Adreno6xx_Vulkan, [000007F5C77286C0][000007F5C7A6A000 50] Android_Adreno7xx, [000007F5C7728880][000007F5C7A6C800 50] Android_Adreno7xx_Vulkan, [000007F5C772C780][000007F5C7A52800 50] Android_Mali_T6xx, [000007F5C772B0C0][000007F5C7A70000 50] Android_Mali_T7xx, [000007F5C7725B00][000007F5C7A75000 50] Android_Mali_T8xx, [000007F5C772B600][000007F5C7A77800 50] Android_Mali_G71, [000007F5C7727C40][000007F5C7A7A000 50] Android_Mali_G72, [000007F5C772CCC0][000007F5C7A7C800 50] Android_Mali_G72_Vulkan, [000007F5C77271C0][000007F5C7A62800 50] Android_Mali_G76, [000007F5C772C240][000007F5C7A80000 50] Android_Mali_G76_Vulkan, [000007F5C772CE80][000007F5C7A85000 50] Android_Mali_G77, [000007F5C77240C0][000007F5C7A87800 50] Android_Mali_G77_Vulkan, [000007F5C772CB00][000007F5C7A8A000 50] Android_Mali_G78, [000007F5C772D040][000007F5C7A8C800 50] Android_Mali_G78_Vulkan, [000007F5C7722300][000007F5C7A72800 50] Android_Mali_G710, [000007F5C7721340][000007F5C7A90000 50] Android_Mali_G710_Vulkan, [000007F5C772DC80][000007F5C7A95000 50] Android_Xclipse_920, [000007F5C772D580][000007F5C7A97800 50] Android_Xclipse_920_Vulkan, [000007F5C7729840][000007F5C7A9A000 50] Android_Vulkan_SM5, [000007F5C772DE40][000007F5C7A9C800 50] Android_PowerVR_G6xxx, [000007F5C772D200][000007F5C7A82800 50] Android_PowerVR_GT7xxx, [000007F5C772AF00][000007F5C7AA0000 50] Android_PowerVR_GE8xxx, [000007F5C772E000][000007F5C7AA5000 50] Android_PowerVR_GM9xxx, [000007F5C772D900][000007F5C7AA7800 50] Android_PowerVR_GM9xxx_Vulkan, [000007F5C772EC40][000007F5C7AAA000 50] Android_TegraK1, [000007F5C772E540][000007F5C7AAC800 50] Android_Unknown_Vulkan, [000007F5C7723F00][000007F5C7A92800 50] Oculus_Quest, [000007F5C772EE00][000007F5C7AB0000 50] Oculus_Quest2, [000007F5C77278C0][000007F5C7AB5000 50] HoloLens, 
+[2023.04.09-12.18.00:307][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.09-12.18.00:308][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.04.09-12.18.00:322][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.09-12.18.00:474][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.09-12.18.00:474][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.09-12.18.00:474][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.09-12.18.00:474][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.09-12.18.00:474][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.09-12.18.00:488][  0]LogNetVersion: VeganZombieCropApocalypse 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2319693653)
+[2023.04.09-12.18.00:588][  0]LogSlate: Border
+[2023.04.09-12.18.00:588][  0]LogSlate: BreadcrumbButton
+[2023.04.09-12.18.00:588][  0]LogSlate: Default
+[2023.04.09-12.18.00:588][  0]LogSlate: Icons.Save
+[2023.04.09-12.18.00:588][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.09-12.18.00:588][  0]LogSlate: ListView
+[2023.04.09-12.18.00:588][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.09-12.18.00:588][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.09-12.18.00:588][  0]LogSlate: TableView.DarkRow
+[2023.04.09-12.18.00:589][  0]LogSlate: TableView.Row
+[2023.04.09-12.18.00:589][  0]LogSlate: TreeView
+[2023.04.09-12.18.00:727][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.00:750][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.00:750][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.00:844][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.04.09-12.18.00:844][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.04.09-12.18.00:844][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.09-12.18.00:988][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9C6AC2A448032542709323952B175922 | Instance: 494E337D485ECCD11D807CB98B2C1432 (THEBEAST-36132).
+[2023.04.09-12.18.01:017][  0]LogPython: Using Python 3.9.7
+[2023.04.09-12.18.01:615][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.09-12.18.01:619][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.09-12.18.01:790][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.09-12.18.01:852][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.01:864][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.01:868][  0]LogUProjectInfo: Found projects:
+[2023.04.09-12.18.01:876][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.01:992][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.09-12.18.02:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.09-12.18.02:175][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.09-12.18.02:175][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.09-12.18.02:308][  0]LogCollectionManager: Loaded 0 collections in 0.002355 seconds
+[2023.04.09-12.18.02:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Collections/' took 0.00s
+[2023.04.09-12.18.02:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/Developers/joach/Collections/' took 0.00s
+[2023.04.09-12.18.02:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/Collections/' took 0.00s
+[2023.04.09-12.18.02:603][  0]LogEngine: Initializing Engine...
+[2023.04.09-12.18.02:829][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.09-12.18.02:830][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.18.02:839][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.18.02:857][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.09-12.18.02:857][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.09-12.18.02:890][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.18.02:891][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.18.02:891][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.18.02:897][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.18.02:950][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.18.02:950][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.18.02:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.18.02:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.18.02:952][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.09-12.18.02:952][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.09-12.18.02:953][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.09-12.18.02:953][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.09-12.18.02:954][  0]LogInit: FAudioDevice initialized.
+[2023.04.09-12.18.02:954][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.09-12.18.02:954][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.09-12.18.02:954][  0]LogInit: Texture streaming: Enabled
+[2023.04.09-12.18.02:983][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.09-12.18.02:992][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.09-12.18.03:010][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.09-12.18.03:041][  0]LogInit: Transaction tracking system initialized
+[2023.04.09-12.18.03:102][  0]BlueprintLog: New page: Editor Load
+[2023.04.09-12.18.03:258][  0]LocalizationService: Localization service is disabled
+[2023.04.09-12.18.03:296][  0]TimingProfiler: Initialize
+[2023.04.09-12.18.03:296][  0]TimingProfiler: OnSessionChanged
+[2023.04.09-12.18.03:296][  0]LoadingProfiler: Initialize
+[2023.04.09-12.18.03:296][  0]LoadingProfiler: OnSessionChanged
+[2023.04.09-12.18.03:296][  0]NetworkingProfiler: Initialize
+[2023.04.09-12.18.03:296][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.09-12.18.03:296][  0]MemoryProfiler: Initialize
+[2023.04.09-12.18.03:296][  0]MemoryProfiler: OnSessionChanged
+[2023.04.09-12.18.03:344][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_12'
+[2023.04.09-12.18.03:344][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_12
+[2023.04.09-12.18.03:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/' took 0.07s
+[2023.04.09-12.18.03:954][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.09-12.18.03:980][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.09-12.18.03:982][  0]SourceControl: Source control is disabled
+[2023.04.09-12.18.03:982][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.662
+[2023.04.09-12.18.03:982][  0]Cmd: MAP LOAD FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/RuralAustralia/Maps/RuralAustralia_Example_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.09-12.18.03:983][  0]LightingResults: New page: Lighting Build
+[2023.04.09-12.18.03:988][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.18.03:988][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.18.03:988][  0]MapCheck: New page: Map Check
+[2023.04.09-12.18.03:988][  0]LightingResults: New page: Lighting Build
+[2023.04.09-12.18.03:992][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-12.18.03:994][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.09-12.18.04:234][  0]LogLinker: Warning: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\UMPDismembermentPack\ThirdPersonBP\Blueprints\GoreBits.uasset: Failed to load '/Game/BloodParticlesAndFlesh/Texture/P_BloodSplatter_FX': Can't find file.
+[2023.04.09-12.18.04:234][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/BloodParticlesAndFlesh/Texture/P_BloodSplatter_FX'
+[2023.04.09-12.18.06:274][  0]LogStaticMesh: StaticMesh /Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.St_Sphere_01 should be resaved to improve async compilation performance.
+[2023.04.09-12.18.06:277][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:277][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_151' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:277][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_152' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:277][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:277][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_Root_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_278' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_279' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_281' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_282' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_283' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_284' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_285' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_286' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_287' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:280][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_Root_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:281][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_In_Cue.Shotgun_Reload_In_Cue:SoundCueGraph_3.SoundCueGraphNode_10' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_In_Cue.Shotgun_Reload_In_Cue:SoundCueGraph_3.SoundCueGraphNode_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_In_Cue.Shotgun_Reload_In_Cue:SoundCueGraph_3.SoundCueGraphNode_12' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_In_Cue.Shotgun_Reload_In_Cue:SoundCueGraph_3.SoundCueGraphNode_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_In_Cue.Shotgun_Reload_In_Cue:SoundCueGraph_3.SoundCueGraphNode_Root_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Out_Cue.Shotgun_Reload_Out_Cue:SoundCueGraph_4.SoundCueGraphNode_5' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Out_Cue.Shotgun_Reload_Out_Cue:SoundCueGraph_4.SoundCueGraphNode_6' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Out_Cue.Shotgun_Reload_Out_Cue:SoundCueGraph_4.SoundCueGraphNode_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:282][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Out_Cue.Shotgun_Reload_Out_Cue:SoundCueGraph_4.SoundCueGraphNode_8' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:283][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Out_Cue.Shotgun_Reload_Out_Cue:SoundCueGraph_4.SoundCueGraphNode_Root_4' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.04.09-12.18.06:662][  0]LogStaticMesh: StaticMesh /Game/MilitaryWeapSilver/Pickups/Shotgun_Pickup.Shotgun_Pickup should be resaved to improve async compilation performance.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\GarageDoors\SK_GarageDoorFrameDW.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\RollDoors\SK_HvyRollDoorSlatsM.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\RollDoors\SK_RollDoorSlatsM.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\RollDoors\SK_RollDoorSlatsL.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\RollDoors\SK_RollDoorSlatsS.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:049][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\MoreDoors\Meshes\RollDoors\SK_RollDoorSlatsXL.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.04.09-12.18.08:840][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.18.08:840][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.18.08:840][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.18.08:841][  0]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.18.09:346][  0]LogNiagara: Compiling System NiagaraSystem /Game/RuralAustralia/Effects/FallingLeaves/FX_FallingLeaves.FX_FallingLeaves took 0.595027 sec, no shader worker used.
+[2023.04.09-12.18.09:389][  0]LogNiagara: Compiling System NiagaraSystem /Game/RuralAustralia/Effects/Birds/FX_Birds_01.FX_Birds_01 took 0.694354 sec, no shader worker used.
+[2023.04.09-12.18.09:454][  0]LogNiagara: Compiling System NiagaraSystem /Game/RuralAustralia/Effects/Birds/FX_Birds_02.FX_Birds_02 took 0.733282 sec, no shader worker used.
+[2023.04.09-12.18.09:649][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.09-12.18.10:029][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.09-12.18.10:030][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.09-12.18.10:030][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,154ms to complete.
+[2023.04.09-12.18.10:030][  0]LogFileHelpers: Loading map 'RuralAustralia_Example_03' took 6.047
+[2023.04.09-12.18.10:040][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.719
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: ================================================
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.09-12.18.10:040][  0]LogShaderCompilers: Display: ================================================
+[2023.04.09-12.18.10:122][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.09-12.18.10:123][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.09-12.18.10:123][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.09-12.18.10:123][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.09-12.18.10:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.18.10:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.18.10:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.18.10:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.18.10:155][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:155][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:156][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:156][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:156][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:156][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:157][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:157][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:157][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:157][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:158][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:158][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:158][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:158][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.09-12.18.10:159][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.09-12.18.10:160][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.09-12.18.10:321][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.09-12.18.10:322][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.09-12.18.10:324][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.09-12.18.10:326][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.09-12.18.10:342][  0]LogViewport: Scene viewport resized to 2470x820, mode Windowed.
+[2023.04.09-12.18.10:377][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.09-12.18.10:652][  0]LogStall: Startup...
+[2023.04.09-12.18.10:653][  0]LogStall: Startup complete.
+[2023.04.09-12.18.10:671][  0]LogLoad: (Engine Initialization) Total time: 13.35 seconds
+[2023.04.09-12.18.10:671][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.09-12.18.10:718][  0]LogAssetRegistry: Asset discovery search completed in 10.7556 seconds
+[2023.04.09-12.18.10:744][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.09-12.18.10:794][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.09-12.18.10:845][  0]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.18.10:846][  0]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.18.10:961][  0]LogAutomationController: Ignoring very large delta of 17137550.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-12.18.10:979][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/' took 0.29s
+[2023.04.09-12.18.11:008][  1]LogNiagara: Compiling System NiagaraSystem /Game/Dollarsign/E_MoneySplash_System.E_MoneySplash_System took 2.745609 sec, no shader worker used.
+[2023.04.09-12.18.11:036][  1]LogNiagara: Compiling System NiagaraSystem /Game/StylizedExplosionPack/PartcileEffects/P_Explosion_Psychic.P_Explosion_Psychic took 2.683206 sec, no shader worker used.
+[2023.04.09-12.18.11:289][  2]LogNiagara: Compiling System NiagaraSystem /Game/StylizedExplosionPack/PartcileEffects/P_Explosion_nature.P_Explosion_nature took 2.695859 sec, no shader worker used.
+[2023.04.09-12.18.12:860][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/RuralAustralia/Maps/RuralAustralia_Example_03.
+[2023.04.09-12.18.25:737][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.18.25:737][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.25:870][400]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/UMPDismembermentPack/MapContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/StylizedExplosionPack/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.04.09-12.18.26:659][400]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.09-12.18.26:680][400]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.18.29:493][595]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.09-12.19.57:324][578]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.19.57:427][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.09-12.19.58:108][616]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.008438 seconds
+[2023.04.09-12.19.58:168][616]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.19.58:169][616]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter5489974B42C52A152E90139C3FBD878F.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.19.58:184][616]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.19.58:184][616]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.20.00:720][815]LogDerivedDataCache: C:/Users/joach/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.878 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.09-12.20.15:864][ 52]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.20.15:865][ 52]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter7126415246554AA6313533AF1F521AC0.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.20.15:877][ 52]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.20.15:877][ 52]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.20.16:420][ 95]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.20.16:530][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.09-12.20.25:172][774]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.20.25:177][774]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.20.25:180][774]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.20.25:180][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.20.28:107][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.20.28:107][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.20.28:434][ 97]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.21.35:666][158]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:666][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.21.35:667][158]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.22.37:247][727]BlueprintLog: New page: Compile BP_TopDown
+[2023.04.09-12.22.37:293][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.09-12.22.37:883][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildSystem/BP_TopDown" FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset" SILENT=true
+[2023.04.09-12.22.37:888][773]LogSavePackage: Moving output files for package: /Game/BuildSystem/BP_TopDown
+[2023.04.09-12.22.37:889][773]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_TopDownC64E0959410B00B12E5C3F97527525BB.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset'
+[2023.04.09-12.22.37:903][773]AssetCheck: New page: Asset Save: BP_TopDown
+[2023.04.09-12.22.37:903][773]LogContentValidation: Display: Validating Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.22.44:227][315]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-12.22.44:231][315]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-12.22.44:234][315]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.22.44:234][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.22.45:893][479]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.22.45:893][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.22.46:292][479]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.29.03:754][265]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.29.03:754][265]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacterE1BB1F914F00118CD90626BA693D2A02.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.29.03:771][265]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.29.03:771][265]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.29.04:185][297]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.29.04:293][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.09-12.29.15:041][128]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.29.15:046][128]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.29.15:049][128]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.29.15:049][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.29.20:569][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.29.20:569][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.29.20:899][720]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.29.35:290][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildSystem/BP_TopDown" FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset" SILENT=true
+[2023.04.09-12.29.35:296][938]LogSavePackage: Moving output files for package: /Game/BuildSystem/BP_TopDown
+[2023.04.09-12.29.35:296][938]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_TopDownF32D184847CEAC32F5C09D82111371AD.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset'
+[2023.04.09-12.29.35:309][938]AssetCheck: New page: Asset Save: BP_TopDown
+[2023.04.09-12.29.35:309][938]LogContentValidation: Display: Validating Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.29.35:803][977]BlueprintLog: New page: Compile BP_TopDown
+[2023.04.09-12.29.35:850][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.09-12.30.03:195][287]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-12.30.03:198][287]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-12.30.03:201][287]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.30.03:201][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.30.06:908][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.30.06:908][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.30.07:278][660]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.30.43:772][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.09-12.30.44:803][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto1
+[2023.04.09-12.30.44:804][803]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/RuralAustralia_Example_03_Auto1EBA00924418D63D42AD690A153CF8F89.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto1.umap'
+[2023.04.09-12.30.44:811][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RuralAustralia/Maps/RuralAustralia_Example_03' took 1.062
+[2023.04.09-12.30.44:811][803]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.062
+[2023.04.09-12.32.24:926][464]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.32.24:927][464]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacterE3F531654B85293E692FE3B99160CCE6.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.32.24:944][464]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.32.24:944][464]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.32.26:851][610]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.32.26:855][610]LogSlate: Window 'BP_PCharacter' being destroyed
+[2023.04.09-12.32.26:858][610]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.32.26:858][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.32.28:534][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-12.32.28:550][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-12.32.28:550][781]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 16:32:28)
+[2023.04.09-12.32.28:553][781]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.09-12.32.28:553][781]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.09-12.32.28:554][781]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.32.28:902][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.348586s)
+[2023.04.09-12.32.28:902][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.348678s)
+[2023.04.09-12.32.28:902][781]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.32.28:902][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.32.28:903][781]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.32.28:903][781]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2023.04.09-12.32.28:922][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.09-12.32.28:928][781]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.32.28:928][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.32.28:928][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.32.28:928][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.32.28:928][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.32.28:928][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.32.28:930][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.32.28:961][781]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.32.28:961][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.32.28:961][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.32.28:961][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.32.28:962][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.09-12.32.28:962][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.09-12.32.28:963][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.09-12.32.28:963][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.09-12.32.28:963][781]LogInit: FAudioDevice initialized.
+[2023.04.09-12.32.28:963][781]LogAudio: Display: Audio Device (ID: 2) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.32.28:975][781]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-12.32.29:046][781]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.32.29:046][781]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.32.29:056][781]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-14.32.29
+[2023.04.09-12.32.29:164][781]LogWorld: Bringing up level for play took: 0.188348
+[2023.04.09-12.32.29:166][781]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.04.09-12.32.29:186][781]LogBlueprintUserMessages: [Recipe_C_1] Eggplant => 2; Garlic => 2; Cabbage => 4; RedBellPepper => 1; Pumpkin => 1
+[2023.04.09-12.32.29:190][781]PIE: Server logged in
+[2023.04.09-12.32.29:191][781]PIE: Play in editor total start time 0,641 seconds.
+[2023.04.09-12.32.30:251][841]LogTemp: Display: No Actor Hit
+[2023.04.09-12.32.40:119][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.32.40:119][916]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.32.40:119][916]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.32.40:123][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.32.40:135][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-12.32.40:142][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.32.40:180][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-12.32.40:180][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.09-12.32.40:181][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.09-12.32.40:185][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.32.40:234][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.09-12.32.40:288][917]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.09-12.38.46:374][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.38.46:374][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.38.46:798][639]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.39.03:585][918]LogViewport: Scene viewport resized to 1826x532, mode Windowed.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.40.36:861][725]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.45.45:187][558]LogSlate: Took 0.000985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.09-12.48.04:246][987]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.48.04:253][987]LogBlueprint: Error: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\UMPDismembermentPack\ThirdPersonBP\Blueprints\BP_PCharacter.uasset: [Compiler] Cannot construct objects of type '/Script/VeganZombieCropApocalypse.PawnSwitcher' in  Construct Object from Class
+[2023.04.09-12.48.04:385][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:503][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:504][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.48.29:504][ 32]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-12.52.33:264][303]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.52.33:292][303]LogBlueprint: Error: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\UMPDismembermentPack\ThirdPersonBP\Blueprints\BP_PCharacter.uasset: [Compiler] This blueprint (self) is not a PawnSwitcher, therefore ' Target ' must have a connection.
+[2023.04.09-12.52.33:294][303]LogBlueprint: Error: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\UMPDismembermentPack\ThirdPersonBP\Blueprints\BP_PCharacter.uasset: [Compiler] Variable node  Set OtherPawnTag  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.04.09-12.52.33:366][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.09-12.52.34:352][351]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.52.34:353][351]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacterC9B8BE9D4734DF046BB716AE73707896.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.52.34:366][351]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.52.34:367][351]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.52.45:918][169]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.52.48:171][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.52.48:171][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.52.48:481][287]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.52.49:316][346]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.04.09-12.52.52:562][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildSystem/BP_TopDown" FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset" SILENT=true
+[2023.04.09-12.52.52:568][602]LogSavePackage: Moving output files for package: /Game/BuildSystem/BP_TopDown
+[2023.04.09-12.52.52:569][602]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_TopDownF2C3FAF347D39EAB25CA27ADF11A1276.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset'
+[2023.04.09-12.52.52:582][602]AssetCheck: New page: Asset Save: BP_TopDown
+[2023.04.09-12.52.52:582][602]LogContentValidation: Display: Validating Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.52.53:436][662]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.52.53:436][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.52.56:078][815]LogViewport: Scene viewport resized to 1826x532, mode Windowed.
+[2023.04.09-12.53.41:706][237]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.53.41:818][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.09-12.53.42:479][264]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.53.42:480][264]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter0A5C36AC442C8E75B218AE8F667BC051.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.53.42:496][264]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.53.42:496][264]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.54.11:373][522]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.54.11:374][522]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter866C8659460294E933244FB9F2613815.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.54.11:388][522]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.54.11:388][522]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.54.13:677][687]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.54.14:034][687]LogViewport: Scene viewport resized to 1644x480, mode Windowed.
+[2023.04.09-12.54.14:465][687]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-12.54.21:681][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.54.21:682][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.54.22:002][243]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.54.23:529][345]LogViewport: Scene viewport resized to 1644x479, mode Windowed.
+[2023.04.09-12.54.23:773][345]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.54.24:286][345]LogViewport: Scene viewport resized to 1826x531, mode Windowed.
+[2023.04.09-12.55.27:936][522]BlueprintLog: New page: Compile BP_TopDown
+[2023.04.09-12.55.27:985][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.09-12.55.28:678][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildSystem/BP_TopDown" FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset" SILENT=true
+[2023.04.09-12.55.28:683][575]LogSavePackage: Moving output files for package: /Game/BuildSystem/BP_TopDown
+[2023.04.09-12.55.28:684][575]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_TopDownEF6299104897B9CD4315D9AE6D58B9B4.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset'
+[2023.04.09-12.55.28:697][575]AssetCheck: New page: Asset Save: BP_TopDown
+[2023.04.09-12.55.28:697][575]LogContentValidation: Display: Validating Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.55.29:894][666]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.55.30:152][666]LogViewport: Scene viewport resized to 1644x479, mode Windowed.
+[2023.04.09-12.55.30:583][666]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.55.32:371][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-12.55.32:376][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-12.55.32:377][812]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 16:55:32)
+[2023.04.09-12.55.32:406][812]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.55.32:771][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.364780s)
+[2023.04.09-12.55.32:771][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.364898s)
+[2023.04.09-12.55.32:771][812]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.55.32:771][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.55.32:771][812]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.55.32:772][812]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2023.04.09-12.55.32:800][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.09-12.55.32:802][812]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.55.32:802][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.55.32:802][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.55.32:802][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.55.32:803][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.55.32:803][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.55.32:804][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.55.32:837][812]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.55.32:837][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.55.32:837][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.55.32:837][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.55.32:838][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.09-12.55.32:838][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.09-12.55.32:839][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.09-12.55.32:839][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.09-12.55.32:839][812]LogInit: FAudioDevice initialized.
+[2023.04.09-12.55.32:839][812]LogAudio: Display: Audio Device (ID: 3) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.55.32:844][812]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-12.55.32:917][812]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.55.32:917][812]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.55.32:927][812]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-14.55.32
+[2023.04.09-12.55.33:032][812]LogWorld: Bringing up level for play took: 0.187520
+[2023.04.09-12.55.33:034][812]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.04.09-12.55.33:037][812]LogBlueprintUserMessages: [Recipe_C_1] Garlic => 1; Cabbage => 1; RedBellPepper => 1
+[2023.04.09-12.55.33:039][812]PIE: Server logged in
+[2023.04.09-12.55.33:040][812]PIE: Play in editor total start time 0,664 seconds.
+[2023.04.09-12.55.33:676][837]LogTemp: Display: No Actor Hit
+[2023.04.09-12.55.48:757][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.55.48:757][ 85]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.55.48:757][ 85]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.55.48:761][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.55.48:778][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-12.55.48:786][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.55.48:821][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-12.55.48:822][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.09-12.55.48:823][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.09-12.55.48:826][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.55.48:838][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.09-12.55.48:901][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.09-12.55.59:671][926]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-12.55.59:676][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-12.55.59:676][926]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 16:55:59)
+[2023.04.09-12.55.59:676][926]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.56.00:028][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.351350s)
+[2023.04.09-12.56.00:028][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.351431s)
+[2023.04.09-12.56.00:028][926]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.56.00:028][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.56.00:028][926]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.56.00:029][926]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2023.04.09-12.56.00:057][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.09-12.56.00:060][926]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.56.00:060][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.56.00:060][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.56.00:060][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.56.00:060][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.56.00:060][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.56.00:062][926]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.56.00:092][926]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.56.00:092][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.56.00:092][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.56.00:092][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.56.00:094][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.09-12.56.00:094][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.09-12.56.00:095][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.09-12.56.00:095][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.09-12.56.00:095][926]LogInit: FAudioDevice initialized.
+[2023.04.09-12.56.00:095][926]LogAudio: Display: Audio Device (ID: 4) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.56.00:105][926]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-12.56.00:182][926]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.56.00:182][926]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.56.00:191][926]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-14.56.00
+[2023.04.09-12.56.00:296][926]LogWorld: Bringing up level for play took: 0.190011
+[2023.04.09-12.56.00:297][926]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.04.09-12.56.00:301][926]LogBlueprintUserMessages: [Recipe_C_1] Garlic => 1; GreenBellPepper => 2; Cabbage => 1; Eggplant => 1; Pumpkin => 2; RedBellPepper => 1
+[2023.04.09-12.56.00:302][926]PIE: Server logged in
+[2023.04.09-12.56.00:303][926]PIE: Play in editor total start time 0,626 seconds.
+[2023.04.09-12.56.00:799][944]LogTemp: Display: No Actor Hit
+[2023.04.09-12.56.12:378][800]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.56.17:921][189]LogTemp: Display: No Actor Hit
+[2023.04.09-12.56.42:377][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.56.42:377][842]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.56.42:377][842]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.56.42:381][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.56.42:434][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-12.56.42:444][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.56.42:479][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-12.56.42:479][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.09-12.56.42:481][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.09-12.56.42:484][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.56.42:501][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.09-12.56.42:572][842]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-12.56.42:688][843]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.09-12.56.55:347][851]LogViewport: Scene viewport resized to 1644x480, mode Windowed.
+[2023.04.09-12.56.55:500][851]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.56.55:927][851]LogViewport: Scene viewport resized to 1826x532, mode Windowed.
+[2023.04.09-12.57.38:186][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.09-12.57.39:235][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto2
+[2023.04.09-12.57.39:236][282]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/RuralAustralia_Example_03_Auto20C55DE0D44917B246D8E72A7D7ABB948.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto2.umap'
+[2023.04.09-12.57.39:243][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RuralAustralia/Maps/RuralAustralia_Example_03' took 1.088
+[2023.04.09-12.57.39:243][282]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.088
+[2023.04.09-12.58.06:332][999]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.58.06:442][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.09-12.58.07:340][ 42]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.58.07:340][ 42]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacterD77C6348445364808673A49307C73DF9.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.58.07:354][ 42]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.58.07:354][ 42]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.58.19:128][874]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-12.58.19:238][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.09-12.58.20:012][910]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.58.20:013][910]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter9882CDC9486B16F07B29E3BBCFBB824A.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.58.20:027][910]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.58.20:027][910]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.58.22:987][114]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-12.58.22:988][114]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter06A13FBD4CBE54CE5E5567BD46F5FE42.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-12.58.23:003][114]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-12.58.23:003][114]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-12.58.23:582][149]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.58.23:804][149]LogViewport: Scene viewport resized to 1644x480, mode Windowed.
+[2023.04.09-12.58.24:217][149]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-12.58.25:616][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-12.58.25:622][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-12.58.25:622][246]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 16:58:25)
+[2023.04.09-12.58.25:622][246]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.58.25:970][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.348832s)
+[2023.04.09-12.58.25:970][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.348917s)
+[2023.04.09-12.58.25:970][246]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.58.25:970][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.58.25:971][246]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.58.25:971][246]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.04.09-12.58.26:004][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.09-12.58.26:007][246]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.58.26:007][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.58.26:007][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.58.26:008][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.58.26:008][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.58.26:008][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.58.26:009][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.58.26:041][246]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.58.26:041][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.58.26:041][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.58.26:041][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.58.26:041][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.09-12.58.26:041][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.09-12.58.26:042][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.09-12.58.26:042][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.09-12.58.26:042][246]LogInit: FAudioDevice initialized.
+[2023.04.09-12.58.26:042][246]LogAudio: Display: Audio Device (ID: 5) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.58.26:050][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-12.58.26:123][246]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.58.26:124][246]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.58.26:132][246]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-14.58.26
+[2023.04.09-12.58.26:237][246]LogWorld: Bringing up level for play took: 0.186295
+[2023.04.09-12.58.26:238][246]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.04.09-12.58.26:242][246]LogBlueprintUserMessages: [Recipe_C_1] Garlic => 4; Cabbage => 1; GreenBellPepper => 3; Eggplant => 2
+[2023.04.09-12.58.26:243][246]PIE: Server logged in
+[2023.04.09-12.58.26:244][246]PIE: Play in editor total start time 0,623 seconds.
+[2023.04.09-12.58.26:291][246]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.58.26:640][256]LogTemp: Display: No Actor Hit
+[2023.04.09-12.58.39:097][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.58.39:097][ 95]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.58.39:097][ 95]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-12.58.39:101][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.58.39:149][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-12.58.39:156][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-12.58.39:190][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-12.58.39:191][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.09-12.58.39:192][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.09-12.58.39:195][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-12.58.39:208][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.09-12.58.39:272][ 95]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-12.58.39:388][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.09-12.58.40:415][156]LogViewport: Scene viewport resized to 1644x480, mode Windowed.
+[2023.04.09-12.58.40:533][156]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-12.58.40:966][156]LogViewport: Scene viewport resized to 1826x532, mode Windowed.
+[2023.04.09-12.59.39:904][704]LogViewport: Scene viewport resized to 1826x531, mode Windowed.
+[2023.04.09-12.59.46:124][244]BlueprintLog: New page: Compile BP_TopDown
+[2023.04.09-12.59.46:174][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.09-12.59.46:795][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildSystem/BP_TopDown" FILE="../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset" SILENT=true
+[2023.04.09-12.59.46:800][293]LogSavePackage: Moving output files for package: /Game/BuildSystem/BP_TopDown
+[2023.04.09-12.59.46:800][293]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_TopDown44FFB8624A6DD0DDA9866CA56D1196B5.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/BuildSystem/BP_TopDown.uasset'
+[2023.04.09-12.59.46:814][293]AssetCheck: New page: Asset Save: BP_TopDown
+[2023.04.09-12.59.46:814][293]LogContentValidation: Display: Validating Blueprint /Game/BuildSystem/BP_TopDown.BP_TopDown
+[2023.04.09-12.59.47:305][330]LogViewport: Scene viewport resized to 1096x319, mode Windowed.
+[2023.04.09-12.59.47:466][330]LogViewport: Scene viewport resized to 1644x479, mode Windowed.
+[2023.04.09-12.59.47:958][330]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.59.49:198][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-12.59.49:204][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-12.59.49:204][435]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 16:59:49)
+[2023.04.09-12.59.49:204][435]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-12.59.49:555][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.350555s)
+[2023.04.09-12.59.49:555][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.350637s)
+[2023.04.09-12.59.49:555][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-12.59.49:555][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-12.59.49:555][435]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-12.59.49:555][435]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2023.04.09-12.59.49:583][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.09-12.59.49:586][435]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-12.59.49:586][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-12.59.49:586][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-12.59.49:586][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-12.59.49:586][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-12.59.49:586][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-12.59.49:588][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-12.59.49:619][435]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-12.59.49:619][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-12.59.49:619][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-12.59.49:619][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-12.59.49:619][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.09-12.59.49:619][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.09-12.59.49:620][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.09-12.59.49:620][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.04.09-12.59.49:620][435]LogInit: FAudioDevice initialized.
+[2023.04.09-12.59.49:620][435]LogAudio: Display: Audio Device (ID: 6) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-12.59.49:629][435]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-12.59.49:699][435]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.59.49:700][435]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-12.59.49:709][435]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-14.59.49
+[2023.04.09-12.59.49:812][435]LogWorld: Bringing up level for play took: 0.182720
+[2023.04.09-12.59.49:814][435]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.04.09-12.59.49:817][435]LogBlueprintUserMessages: [Recipe_C_1] Cabbage => 3; Pumpkin => 1
+[2023.04.09-12.59.49:818][435]PIE: Server logged in
+[2023.04.09-12.59.49:819][435]PIE: Play in editor total start time 0,615 seconds.
+[2023.04.09-12.59.50:116][441]LogTemp: Display: No Actor Hit
+[2023.04.09-12.59.55:066][761]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-12.59.56:425][854]LogTemp: Display: No Actor Hit
+[2023.04.09-13.00.12:406][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.00.12:406][938]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-13.00.12:407][938]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-13.00.12:411][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.00.12:462][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-13.00.12:470][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.00.12:504][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.00.12:505][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.09-13.00.12:506][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.09-13.00.12:524][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.09-13.00.12:573][938]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-13.00.12:697][939]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.04.09-13.01.16:907][880]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-13.01.17:017][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.09-13.01.17:639][904]LogSavePackage: Moving output files for package: /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter
+[2023.04.09-13.01.17:639][904]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacterB521673148A8034C311265AC6D0E85A1.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Content/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.uasset'
+[2023.04.09-13.01.17:657][904]AssetCheck: New page: Asset Save: BP_PCharacter
+[2023.04.09-13.01.17:657][904]LogContentValidation: Display: Validating Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter
+[2023.04.09-13.01.22:814][276]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.09-13.01.22:819][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-13.01.22:819][276]PIE: New page: PIE session: RuralAustralia_Example_03 (9. apr. 2023, 17:01:22)
+[2023.04.09-13.01.22:819][276]LogPlayLevel: Creating play world package: /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-13.01.23:172][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.353331s)
+[2023.04.09-13.01.23:172][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03 to /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 (0.353410s)
+[2023.04.09-13.01.23:173][276]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-13.01.23:173][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-13.01.23:173][276]LogAIModule: Creating AISystem for world RuralAustralia_Example_03
+[2023.04.09-13.01.23:173][276]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2023.04.09-13.01.23:205][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.09-13.01.23:208][276]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-13.01.23:208][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-13.01.23:208][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-13.01.23:209][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-13.01.23:209][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-13.01.23:209][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-13.01.23:210][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-13.01.23:241][276]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.04.09-13.01.23:241][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-13.01.23:241][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-13.01.23:241][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-13.01.23:242][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.09-13.01.23:242][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.09-13.01.23:243][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.09-13.01.23:243][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.09-13.01.23:243][276]LogInit: FAudioDevice initialized.
+[2023.04.09-13.01.23:243][276]LogAudio: Display: Audio Device (ID: 7) registered with world 'RuralAustralia_Example_03'.
+[2023.04.09-13.01.23:250][276]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.09-13.01.23:327][276]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-13.01.23:327][276]LogPhysics: Warning: Scale for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=7.000
+[2023.04.09-13.01.23:337][276]LogWorld: Bringing World /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03.RuralAustralia_Example_03 up for play (max tick rate 0) at 2023.04.09-15.01.23
+[2023.04.09-13.01.23:442][276]LogWorld: Bringing up level for play took: 0.191635
+[2023.04.09-13.01.23:444][276]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.04.09-13.01.23:447][276]LogBlueprintUserMessages: [Recipe_C_1] RedBellPepper => 1
+[2023.04.09-13.01.23:449][276]PIE: Server logged in
+[2023.04.09-13.01.23:450][276]PIE: Play in editor total start time 0,631 seconds.
+[2023.04.09-13.01.23:496][276]LogViewport: Scene viewport resized to 2035x796, mode Windowed.
+[2023.04.09-13.01.23:845][284]LogTemp: Display: No Actor Hit
+[2023.04.09-13.01.30:066][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.01.30:066][676]LogWorld: BeginTearingDown for /Game/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_03
+[2023.04.09-13.01.30:067][676]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_03, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-13.01.30:070][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.01.30:117][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-13.01.30:123][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.01.30:158][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-13.01.30:158][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.09-13.01.30:160][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.09-13.01.30:163][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.01.30:173][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.09-13.01.30:227][676]LogViewport: Scene viewport resized to 2035x797, mode Windowed.
+[2023.04.09-13.01.30:351][677]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.09-13.02.14:214][ 95]LogViewport: Scene viewport resized to 1644x480, mode Windowed.
+[2023.04.09-13.02.14:499][ 95]LogViewport: Scene viewport resized to 1096x320, mode Windowed.
+[2023.04.09-13.02.14:815][ 95]LogViewport: Scene viewport resized to 1826x532, mode Windowed.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.09:968][764]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-13.04.29:832][633]BlueprintLog: New page: Compile BP_PCharacter
+[2023.04.09-13.04.29:839][633]LogBlueprint: Error: [AssetLog] C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Content\UMPDismembermentPack\ThirdPersonBP\Blueprints\BP_PCharacter.uasset: [Compiler] Cannot construct objects of type '/Script/VeganZombieCropApocalypse.PawnSwitcher' in  Construct Object from Class
+[2023.04.09-13.04.29:933][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.09-13.06.59:163][748]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-13.06.59:163][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.06.59:233][748]LogViewport: Scene viewport resized to 1826x531, mode Windowed.
+[2023.04.09-13.07.02:156][996]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-13.07.02:161][996]LogSlate: Window 'BP_TopDown' being destroyed
+[2023.04.09-13.07.02:164][996]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.09-13.07.02:164][996]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-13.07.02:164][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.07.03:823][168]Candidate modules for hot reload:
+[2023.04.09-13.07.03:823][168]  VeganZombieCropApocalypse
+[2023.04.09-13.07.03:828][168]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=VeganZombieCropApocalypse,3300 VeganZombieCropApocalypseEditor Win64 Development -Project="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject" "C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject"  -IgnoreJunk]
+[2023.04.09-13.07.03:833][168]Warning: Starting HotReload took  0.0s.
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: New page: Compilation - 9. apr. 2023, 17:07:10
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Log file: C:\Users\joach\AppData\Local\UnrealBuildTool\Log.txt
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\joach\Documents\Unreal Projects\vegan-harvest).
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Waiting for 'git status' command to complete
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Invalidating makefile for VeganZombieCropApocalypseEditor (working set of source files changed)
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Parsing headers for VeganZombieCropApocalypseEditor
+[2023.04.09-13.07.10:611][805]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\VeganZombieCropApocalypse.uproject" "C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\VeganZombieCropApocalypseEditor\Development\VeganZombieCropApocalypseEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\joach\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.04.09-13.07.10:611][805]CompilerResultsLog: Error: C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Source/VeganZombieCropApocalypse/PawnSwitcher.h(11) : Error: Missing 'class' in Class declaration
+[2023.04.09-13.07.10:611][805]LogMainFrame: MainFrame: Module compiling took 6.801 seconds
+[2023.04.09-13.07.10:618][805]Warning: HotReload failed, recompile failed
+[2023.04.09-13.08.23:512][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.09-13.08.24:579][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto3
+[2023.04.09-13.08.24:580][ 41]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/RuralAustralia_Example_03_Auto39937E14F48F468646CC41B9AD3E9AC65.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Autosaves/Game/RuralAustralia/Maps/RuralAustralia_Example_03_Auto3.umap'
+[2023.04.09-13.08.24:585][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RuralAustralia/Maps/RuralAustralia_Example_03' took 1.100
+[2023.04.09-13.08.24:585][ 41]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.100
+[2023.04.09-13.08.24:585][ 41]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter] ([2] browsable assets)...
+[2023.04.09-13.08.24:604][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter.BP_PCharacter]
+[2023.04.09-13.08.24:605][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter]
+[2023.04.09-13.08.24:665][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter_Auto3
+[2023.04.09-13.08.24:687][ 41]LogSavePackage: Moving '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/BP_PCharacter_Auto3D09FC7444BA3C65174A330B636310D75.tmp' to '../../../../../../Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/Saved/Autosaves/Game/UMPDismembermentPack/ThirdPersonBP/Blueprints/BP_PCharacter_Auto3.uasset'
+[2023.04.09-13.08.24:688][ 41]LogFileHelpers: Auto-saving content packages took 0.103
+[2023.04.09-13.10.50:245][775]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-13.10.50:250][775]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-13.10.51:409][901]Candidate modules for hot reload:
+[2023.04.09-13.10.51:409][901]  VeganZombieCropApocalypse
+[2023.04.09-13.10.51:413][901]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=VeganZombieCropApocalypse,9848 VeganZombieCropApocalypseEditor Win64 Development -Project="C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject" "C:/Users/joach/Documents/Unreal Projects/vegan-harvest/VZCA/VeganZombieCropApocalypse.uproject"  -IgnoreJunk]
+[2023.04.09-13.10.51:418][901]Warning: Starting HotReload took  0.0s.
+[2023.04.09-13.11.00:397][756]CompilerResultsLog: New page: Compilation - 9. apr. 2023, 17:11:00
+[2023.04.09-13.11.00:397][756]CompilerResultsLog: Log file: C:\Users\joach\AppData\Local\UnrealBuildTool\Log.txt
+[2023.04.09-13.11.00:397][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\joach\Documents\Unreal Projects\vegan-harvest).
+[2023.04.09-13.11.00:397][756]CompilerResultsLog: Waiting for 'git status' command to complete
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Invalidating makefile for VeganZombieCropApocalypseEditor (working set of source files changed)
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Parsing headers for VeganZombieCropApocalypseEditor
+[2023.04.09-13.11.00:398][756]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\VeganZombieCropApocalypse.uproject" "C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\VeganZombieCropApocalypseEditor\Development\VeganZombieCropApocalypseEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\joach\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Reflection code generated for VeganZombieCropApocalypseEditor in 1,3204224 seconds
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Building VeganZombieCropApocalypseEditor...
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Using Visual Studio 2022 14.30.30709 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [Adaptive Build] Excluded from VeganZombieCropApocalypse unity file: DetectionComponent.cpp, Grabber.cpp, PawnSwitcher.cpp, Recipebuilder.cpp, VeganZombieCropApocalypse.cpp
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 32 logical cores)
+[2023.04.09-13.11.00:398][756]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Building 5 actions with 5 processes...
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [1/5] Compile PawnSwitcher.gen.cpp
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [2/5] Compile PawnSwitcher.cpp
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [3/5] Link UnrealEditor-VeganZombieCropApocalypse-9848.lib
+[2023.04.09-13.11.00:398][756]CompilerResultsLog:    Creating library C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\UnrealEditor-VeganZombieCropApocalypse-9848.lib and object C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\UnrealEditor-VeganZombieCropApocalypse-9848.exp
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [4/5] Link UnrealEditor-VeganZombieCropApocalypse-9848.dll
+[2023.04.09-13.11.00:398][756]CompilerResultsLog:    Creating library C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\UnrealEditor-VeganZombieCropApocalypse-9848.suppressed.lib and object C:\Users\joach\Documents\Unreal Projects\vegan-harvest\VZCA\Intermediate\Build\Win64\UnrealEditor\Development\VeganZombieCropApocalypse\UnrealEditor-VeganZombieCropApocalypse-9848.suppressed.exp
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: [5/5] WriteMetadata VeganZombieCropApocalypseEditor.target
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Total time in Parallel executor: 1,84 seconds
+[2023.04.09-13.11.00:398][756]CompilerResultsLog: Total execution time: 8,91 seconds
+[2023.04.09-13.11.00:398][756]LogMainFrame: MainFrame: Module compiling took 9.000 seconds
+[2023.04.09-13.11.00:441][756]Re-instancing PawnSwitcher after reload.
+[2023.04.09-13.11.00:442][756]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.09-13.11.01:508][756]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.067 s
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: 
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: Ensure condition failed: bArchetypeReinstanced [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp] [Line: 1843]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: Reinstancing non-actor (/Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.BP_TopDown_C_1.PawnSwitcher); failed to resolve archetype object - property values may be lost.
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: Stack: 
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae00df561 UnrealEditor-UnrealEd.dll!ReplaceObjectHelper() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:1843]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae00dd203 UnrealEditor-UnrealEd.dll!FBlueprintCompileReinstancer::ReplaceInstancesOfClass_Inner() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:2357]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae00dbe86 UnrealEditor-UnrealEd.dll!FBlueprintCompileReinstancer::ReplaceInstancesOfClass() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:1573]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae00d8093 UnrealEditor-UnrealEd.dll!FBlueprintCompileReinstancer::ReinstanceInner() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:712]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae00d86b5 UnrealEditor-UnrealEd.dll!FBlueprintCompileReinstancer::ReinstanceObjects() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:786]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae0134a8d UnrealEditor-UnrealEd.dll!FReload::ReinstanceClass() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\ReloadUtilities.cpp:1048]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffae0134464 UnrealEditor-UnrealEd.dll!FReload::Reinstance() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\ReloadUtilities.cpp:1019]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1ab704a3 UnrealEditor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:931]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1aa282a5 UnrealEditor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1bb1a5c2 UnrealEditor-Core.dll!TMulticastDelegate<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::Broadcast() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:967]
+[2023.04.09-13.11.01:508][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1bb3e937 UnrealEditor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:558]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1bb3d92c UnrealEditor-Core.dll!FModuleManager::LoadModule() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:382]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffa94fc8272 UnrealEditor-HotReload.dll!FHotReloadModule::DoHotReloadInternal() [D:\build\++UE5\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:808]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffa94fc6477 UnrealEditor-HotReload.dll!UE::Core::Private::Function::TFunctionRefCaller<<lambda_2ab8e45a3f684f862113e2551d660779>,void __cdecl(TMap<FName,FString,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<FName,FString,0> > const &,bool,enum ECompilationResult::Type)>::Call() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\Function.h:549]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffa94fc6f24 UnrealEditor-HotReload.dll!FHotReloadModule::CheckForFinishedModuleDLLCompile() [D:\build\++UE5\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1673]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffa94fd1003 UnrealEditor-HotReload.dll!FHotReloadModule::Tick() [D:\build\++UE5\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1225]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffa94fc90cd UnrealEditor-HotReload.dll!TBaseRawMethodDelegateInstance<0,FHotReloadModule,bool __cdecl(float),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:453]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffb1b8331e9 UnrealEditor-Core.dll!FTSTicker::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Containers\Ticker.cpp:110]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf6b267 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5439]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf80d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf80e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf83c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf95564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ff66bf98736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffc24b126bd KERNEL32.DLL!UnknownFunction []
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: [Callstack] 0x00007ffc2670a9f8 ntdll.dll!UnknownFunction []
+[2023.04.09-13.11.01:509][756]LogOutputDevice: Error: 

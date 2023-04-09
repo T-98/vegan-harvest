@@ -1,0 +1,18 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\joach\\documents\\unreal projects\\vegan-harvest\\vzca\\source\\veganzombiecropapocalypse\\pawnswitcher.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joach\\documents\\unreal projects\\vegan-harvest\\vzca\\intermediate\\build\\win64\\veganzombiecropapocalypse\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\joach\\documents\\unreal projects\\vegan-harvest\\vzca\\intermediate\\build\\win64\\unrealgame\\development\\veganzombiecropapocalypse\\definitions.veganzombiecropapocalypse.h",
+            "c:\\users\\joach\\documents\\unreal projects\\vegan-harvest\\vzca\\source\\veganzombiecropapocalypse\\pawnswitcher.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\cameracomponent.generated.h",
+            "c:\\users\\joach\\documents\\unreal projects\\vegan-harvest\\vzca\\intermediate\\build\\win64\\unrealgame\\inc\\veganzombiecropapocalypse\\pawnswitcher.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

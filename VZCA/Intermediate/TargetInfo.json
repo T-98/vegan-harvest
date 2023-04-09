@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VeganZombieCropApocalypse",
+			"Path": "C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VeganZombieCropApocalypseEditor",
+			"Path": "C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

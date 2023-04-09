@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "VeganZombieCropApocalypseEditor Editor Win64 Development (VeganZombieCropApocalypse)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\.vscode\\compileCommands_VeganZombieCropApocalypse.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
