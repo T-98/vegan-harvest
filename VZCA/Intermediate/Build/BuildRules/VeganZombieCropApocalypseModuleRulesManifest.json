@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypse\\VeganZombieCropApocalypse.Build.cs",
-		"C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Plugins\\WorldCreatorBridgeFor_Unreal_5_0\\Source\\WorldCreatorBridge\\WorldCreatorBridge.Build.cs",
-		"C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypse.Target.cs",
-		"C:\\Users\\joach\\Documents\\Unreal Projects\\vegan-harvest\\VZCA\\Source\\VeganZombieCropApocalypseEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.3"
-}
