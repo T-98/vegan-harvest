@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VeganZombieCropApocalypse",
+			"Path": "C:\\Users\\khemb\\Documents\\GitHub\\vegan-harvest\\VZCA 5.1\\Source\\VeganZombieCropApocalypse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VeganZombieCropApocalypseEditor",
+			"Path": "C:\\Users\\khemb\\Documents\\GitHub\\vegan-harvest\\VZCA 5.1\\Source\\VeganZombieCropApocalypseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
